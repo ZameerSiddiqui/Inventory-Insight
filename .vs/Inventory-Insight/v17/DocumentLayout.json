@@ -1,10 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Git\\Inventory-Insight\\",
+  "WorkspaceRootPath": "C:\\Projects\\Git\\Inventory-Insight\\Inventory-Insight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\Git\\Inventory-Insight\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{345CB405-4146-4FE1-9D71-7643AF2EDDB1}|..\\Inventory-Insight.Data\\Inventory-Insight.Business.Data\\Inventory-Insight.Business.Data.csproj|c:\\projects\\git\\inventory-insight\\inventory-insight.data\\inventory-insight.business.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBDCA8A-C9ED-4A99-BA7A-301104E365A2}|..\\Inventory-Insight.Business\\Inventory-Insight.Business\\Inventory-Insight.Business.csproj|c:\\projects\\git\\inventory-insight\\inventory-insight.business\\inventory-insight.business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +21,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "readme.md",
-              "DocumentMoniker": "C:\\Projects\\Git\\Inventory-Insight\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "C:\\Projects\\Git\\Inventory-Insight\\readme.md",
-              "RelativeToolTip": "readme.md",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\Inventory-Insight\\Inventory-Insight.Data\\Inventory-Insight.Business.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Inventory-Insight.Data\\Inventory-Insight.Business.Data\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Git\\Inventory-Insight\\Inventory-Insight.Data\\Inventory-Insight.Business.Data\\Class1.cs",
+              "RelativeToolTip": "..\\Inventory-Insight.Data\\Inventory-Insight.Business.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:33:04.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\Inventory-Insight\\Inventory-Insight.Business\\Inventory-Insight.Business\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Inventory-Insight.Business\\Inventory-Insight.Business\\Class1.cs",
+              "ToolTip": "C:\\Projects\\Git\\Inventory-Insight\\Inventory-Insight.Business\\Inventory-Insight.Business\\Class1.cs",
+              "RelativeToolTip": "..\\Inventory-Insight.Business\\Inventory-Insight.Business\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-09T22:05:18.16Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T22:32:25.633Z",
               "EditorCaption": ""
             }
           ]
