@@ -35,4 +35,6 @@ nunit-*.xml
 dlldata.c
 # Benchmark Results
 BenchmarkDotNet.Artifacts/\
+/.vs*
 /.vs/Inventory-Insight/FileContentIndex
+.vs*/
