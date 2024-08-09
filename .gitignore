@@ -38,3 +38,4 @@ BenchmarkDotNet.Artifacts/\
 /.vs*
 /.vs/Inventory-Insight/FileContentIndex
 .vs*/
+/.vs/slnx.sqlite
