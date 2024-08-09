@@ -5,9 +5,7 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{3DACC9F9-A57F-4CF7-9C1F-984D07AB5956}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory-Insight.App", "..\UI\Inventory-Insight.App\Inventory-Insight.App.csproj", "{5BB2FE45-A07B-407A-A574-821448D6E78A}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{0E127254-2686-40A6-84F6-0E42DF078281}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory-Insight.App", "..\UI\Inventory-Insight.App\Inventory-Insight.App.csproj", "{5BB2FE45-A07B-407A-A574-821448D6E78A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
